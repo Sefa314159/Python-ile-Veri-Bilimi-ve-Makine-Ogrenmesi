@@ -1,3 +1,5 @@
+DOĞRUSAL REGRESYON VE KUZENLERİ:
+
 1) Basit Doğrusal Regresyon
 2) Çoklu Doğrusal Regresyon
 3) Temel Bileşen Regresyonu
