@@ -1,3 +1,5 @@
+DOĞRUSAL OLMAYAN REGRESYON MODELLERİ
+
 1)  K-En Yakın Komşu(KNN)
 2)  Destek Vektör Regresyonu(SVR)
 3)  Doğrusal Olmayan SVR
