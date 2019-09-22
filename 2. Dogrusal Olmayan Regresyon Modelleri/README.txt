@@ -10,4 +10,3 @@ DOĞRUSAL OLMAYAN REGRESYON MODELLERİ
 8)  Gradient Boosting Machines(GBM)
 9)  XGBoost
 10) LightGBM
-11) CatBoost
