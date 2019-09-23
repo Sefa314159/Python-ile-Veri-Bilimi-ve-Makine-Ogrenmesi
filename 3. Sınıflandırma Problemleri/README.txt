@@ -9,5 +9,5 @@ SINIFLANDIRMA PROBLEMLERİ
 7)  Sınıflandırma Ağaçları(CART)
 8)  Random Forests(RF)
 9)  Gradient Boosting Machines(GBM)
-10) XGBoost
-11) LightGBM
+10) LightGBM
+11) XGBoost
