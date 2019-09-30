@@ -1,4 +1,4 @@
-# Python-ile-Veri-Bilimi-ve-Makine-Ogrenmesi
+# Python ile Veri Bilimi ve Makine Ogrenmesi
 Python
 
 0) Giriş
@@ -7,3 +7,4 @@ Python
 3) Sınıflandırma Problemleri
 4) Gözetimsiz / Denetimsiz Öğrenme
 5) Büyük Veri Analitiği
+6) Metin Madenciliği
