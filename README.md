@@ -8,3 +8,4 @@ Python
 4) Gözetimsiz / Denetimsiz Öğrenme
 5) Büyük Veri Analitiği
 6) Metin Madenciliği
+7) Veri Tabanları ve SQLite
